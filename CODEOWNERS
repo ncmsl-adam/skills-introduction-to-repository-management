@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ncmsl-adam
+/src/backend/database.py      @ncmsl-adam
+/src/backend/routers/auth.py  @ncmsl-adam
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ncmsl-adam
